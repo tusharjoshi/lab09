@@ -16,6 +16,7 @@ class AdminController extends Controller
 # Heading
 
 **bold**
+![eagle](/images/eagle.png)
 
 1. One
 2. Two
